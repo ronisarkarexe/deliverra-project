@@ -1,0 +1,131 @@
+.text-had-color{
+  color:black !important;
+}
+.navbar-icon{
+  font-size:28px !important;
+  font-weight:bold;
+  color:#13a549 !important;
+  margin-left: -19px;
+}
+.header-background{
+  background-color:white;
+}
+.input-search{
+  height:50px;
+  width:320px;
+  border-radius:25px;
+  padding:10px;
+  border:none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.title-size{
+  font-size:48px;
+}
+.cart-columns{
+  display: flex;
+  flex-wrap: wrap;
+}
+.text-color-button{
+  color:#13a549;
+}
+.text-color-p{
+  color:#13a549;
+  font-size:18px;
+  font-weight:400;
+}
+.button-size{
+  border: none;
+  padding: 10px 25px;
+  background-color: #13a549;
+  color: white;
+  font-weight: 500;
+  border-radius:30px;
+}
+.button-number-size{
+  border: none;
+  background-color: #13a549;
+  width: 50px;
+  height: 50px;
+  border-radius:50px;
+  color: white;
+  font-weight: 500;
+}
+.img-fluid-css{
+  width:150px;
+  height:46px;
+}
+.img-fluid-size{
+  max-width: 90%;
+  height:auto;
+  margin-left: -20px;
+}
+.img-fluid-ourNews{
+  max-width: 96%;
+  height:400px;
+}
+.img-fluid-costumer{
+  width:48px;
+  height:48px;
+  border-radius:50px;
+}
+
+/* Testimonial css start */
+.slides {
+  position: relative;
+}
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index:1;
+  background-color: black;
+  color: white;
+  border-radius: 80px;
+}
+.slides .slick-prev:hover,
+.slides .slick-next:hover {
+  position: absolute;
+  top: 50%;
+  z-index:1;
+  background-color: black;
+}
+.slides .slick-prev {
+  left: -4%;
+}
+.slides .slick-next {
+  right: -4%;
+}
+/* Testimonial css end */
+.slider-testimonial{
+  width: 90%;
+  height: 160px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 5px 8px;
+  border-radius:10px;
+}
+.get-started-container{
+  padding:50px 50px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+.footer-bg-color{
+  background-color:#0D1721;
+}
+.footer-text-color{
+  color:white;
+}
+.footer-text{
+  color:#13a549;
+}
+.hr-color{
+  color:white;
+}
+.ouick-links a{
+  text-decoration: none;
+  color:white;
+  font-size: 17px;
+}
+.ouick-links a:hover{
+  text-decoration: none;
+  color:#13a549;
+}
